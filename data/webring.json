@@ -1,0 +1,20 @@
+{
+  "title": "Buchclub",
+  "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
+  "image": "https://mlinqs.net/wp-content/uploads/2018/01/NASA_Logo-1285x1068.jpg",
+  "url": "https://maurice-renck.de/de/buchclub",
+  "admins": [
+    {
+      "title": "Maurice Renck",
+      "url": "https://maurice-renck.de/",
+      "feed": "https://maurice-renck.de/de/feed.rss"
+    }
+  ],
+  "members": [
+    {
+      "title": "Maurice Renck",
+      "url": "https://maurice-renck.de/",
+      "feed": "https://maurice-renck.de/de/feed.rss"
+    }
+  ]
+}
